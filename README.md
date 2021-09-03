@@ -8,11 +8,11 @@ dotfiles of my system, *Clone or Fork not recommended*
 
 ## My System
 
-Host OS: Windows 11 21H2
+**Host OS**: Windows 11 21H2
 
-Linux OS: Ubuntu 20.04.3 LTS
+**Linux OS**: Ubuntu 20.04.3 LTS
 
-Terminal: Windows Terminal
+**Terminal**: Windows Terminal
 
 ### wslfetch
 
