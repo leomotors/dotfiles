@@ -1,0 +1,4 @@
+*.sh linguist-detectable=false
+*.zsh linguist-detectable=false
+* linguist-detectable=false
+setup.sh linguist-detectable=true
