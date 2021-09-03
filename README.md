@@ -12,6 +12,8 @@ Host OS: Windows 11 21H2
 
 Linux OS: Ubuntu 20.04.3 LTS
 
+Terminal: Windows Terminal
+
 ### wslfetch
 
 ![wslfetch](./screenshots/wslfetch_210903.png)
