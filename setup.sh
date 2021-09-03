@@ -33,6 +33,10 @@ sudo npm i -g eslint
 mkdir GIT_Folder
 mkdir Downloads
 
+# * Ruby
+sudo apt install -y cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev libssl-dev ruby-dev
+sudo gem install github-linguist
+
 # * Very Big Package
 sudo apt install -y ubuntu-desktop ffmpeg gimp vlc
 

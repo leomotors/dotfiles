@@ -1,3 +1,5 @@
 [user]
 	name = Leomotors (Ubuntu)
 	email = 59821765+Leomotors@users.noreply.github.com
+[init]
+	defaultBranch = main
