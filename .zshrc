@@ -112,3 +112,5 @@ source $ZSH/oh-my-zsh.sh
 
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH=$HOME/.local/bin:$PATH
+
+alias sau="sudo apt update -y && sudo apt upgrade -y"

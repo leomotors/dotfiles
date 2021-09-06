@@ -6,7 +6,7 @@
 sudo apt update -y && sudo apt upgrade -y
 
 # * Install used Package
-sudo apt install -y build-essential neofetch libgtk-3-dev python-is-python3 python3-pip
+sudo apt install -y build-essential neofetch libgtk-3-dev python-is-python3 python3-pip libtools
 
 # * Install zsh + PowerLevel10k
 # https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0
