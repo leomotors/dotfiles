@@ -40,9 +40,6 @@ sudo gem install github-linguist
 # * Very Big Package
 sudo apt install -y ubuntu-desktop ffmpeg gimp vlc
 
-# * Config
-p10k configure
-
 # * Replace dotfiles
 rm ~/.zshrc
 ln -s ~/dotfiles/.zshrc ~/.zshrc
