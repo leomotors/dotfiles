@@ -6,7 +6,7 @@
 sudo apt update -y && sudo apt upgrade -y
 
 # * Install used Package
-sudo apt install -y build-essential neofetch libgtk-3-dev python-is-python3 python3-pip libtools tree neofetch
+sudo apt install -y build-essential neofetch libgtk-3-dev python-is-python3 python3-pip libtools tree neofetch jupyter
 
 # * Install zsh + PowerLevel10k
 # https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0
@@ -36,6 +36,13 @@ mkdir Downloads
 # * Ruby
 sudo apt install -y cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev libssl-dev ruby-dev
 sudo gem install github-linguist
+
+# * OpenCV Deps
+sudo apt install build-essential cmake git pkg-config libgtk-3-dev \
+    libavcodec-dev libavformat-dev libswscale-dev libv4l-dev \
+    libxvidcore-dev libx264-dev libjpeg-dev libpng-dev libtiff-dev \
+    gfortran openexr libatlas-base-dev python3-dev python3-numpy \
+    libtbb2 libtbb-dev libdc1394-22-dev
 
 # * Very Big Package
 sudo apt install -y ubuntu-desktop ffmpeg gimp vlc
