@@ -24,6 +24,18 @@ This is my main System for Programming
 
 ![neofetch](./screenshots/neofetch_210903.png)
 
+## My Secondary System: Windows
+
+_basically host of my linux_
+
+**OS**: Windows 11 21H2
+
+I used this for some programming tasks (like compiling RTX 2090 TiFy for Windows but program itself is developed in Linux) or pygame which face issues with Linux (not sure because it is Linux or it is VM that cause the issues) or other tasks that it is hard to do in Linux (VM)
+
+No dotfiles exists in Windows (of course, everybody know this)
+
+It also features _very old_ command prompt shell
+
 ## My Raspberry Pi
 
 **Model**: Raspberry Pi 3 Model A+
