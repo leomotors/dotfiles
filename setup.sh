@@ -38,11 +38,14 @@ sudo apt install -y cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev 
 sudo gem install github-linguist
 
 # * OpenCV Deps
-sudo apt install build-essential cmake git pkg-config libgtk-3-dev \
+sudo apt install -y build-essential cmake git pkg-config libgtk-3-dev \
     libavcodec-dev libavformat-dev libswscale-dev libv4l-dev \
     libxvidcore-dev libx264-dev libjpeg-dev libpng-dev libtiff-dev \
     gfortran openexr libatlas-base-dev python3-dev python3-numpy \
     libtbb2 libtbb-dev libdc1394-22-dev
+
+# * OpenGL
+sudo apt install -y libglu1-mesa-dev freeglut3-dev mesa-common-dev
 
 # * Very Big Package
 sudo apt install -y ubuntu-desktop ffmpeg gimp vlc

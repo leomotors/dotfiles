@@ -114,3 +114,5 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH=$HOME/.local/bin:$PATH
 
 alias sau="sudo apt update -y && sudo apt upgrade -y"
+
+alias startconda='eval "$(/home/leomotors/miniconda3/bin/conda shell.zsh hook)"'
