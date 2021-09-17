@@ -1,4 +1,8 @@
+# Ignore All Files
 *.sh linguist-detectable=false
 *.zsh linguist-detectable=false
 * linguist-detectable=false
+
+# Only Include File I write
 setup.sh linguist-detectable=true
+linkdot.sh linguist-detectable=true

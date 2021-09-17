@@ -1,3 +1,3 @@
-rm ~/.zshrc
-ln -s ~/dotfiles/raspberrypi/.zshrc ~/.zshrc
+# * Setup for Raspberry Pi
 
+zsh ~/dotfiles/raspberrypi/linkdot.sh

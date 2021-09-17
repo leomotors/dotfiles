@@ -51,23 +51,7 @@ sudo apt install -y libglu1-mesa-dev freeglut3-dev mesa-common-dev
 sudo apt install -y ubuntu-desktop ffmpeg gimp vlc
 
 # * Replace dotfiles
-rm ~/.zshrc
-ln -s ~/dotfiles/.zshrc ~/.zshrc
-
-rm ~/.p10k.zsh
-ln -s ~/dotfiles/.p10k.zsh ~/.p10k.zsh
-
-rm ~/.bashrc
-ln -s ~/dotfiles/.bashrc ~/.bashrc
-
-rm ~/.bash_logout
-ln -s ~/dotfiles/.bash_logout ~/.bash_logout
-
-rm ~/.profile
-ln -s ~/dotfiles/.profile ~/.profile
-
-rm ~/.gitconfig
-ln -s ~/dotfiles/.gitconfig ~/.gitconfig
+zsh ~/dotfiles/ubuntu/linkdot.sh
 
 # * Finally
 sudo apt update -y && sudo apt upgrade -y
