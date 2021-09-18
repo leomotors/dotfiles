@@ -16,4 +16,4 @@ rm ~/.profile
 ln -s ~/dotfiles/ubuntu/.profile ~/.profile
 
 rm ~/.gitconfig
-ln -s ~/dotfiles/shared/.gitconfig ~/.gitconfig
+ln -s ~/dotfiles/ubuntu/.gitconfig ~/.gitconfig
