@@ -3,3 +3,6 @@
 	email = 59821765+Leomotors@users.noreply.github.com
 [init]
 	defaultBranch = main
+[credential "https://github.com"]
+	helper = 
+	helper = !/home/linuxbrew/.linuxbrew/Cellar/gh/2.0.0/bin/gh auth git-credential
