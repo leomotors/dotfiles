@@ -116,3 +116,9 @@ export PATH=$HOME/.local/bin:$PATH
 alias sau="sudo apt update -y && sudo apt upgrade -y"
 
 alias startconda='eval "$(/home/leomotors/miniconda3/bin/conda shell.zsh hook)"'
+
+PATH="/home/leomotors/perl5/bin${PATH:+:${PATH}}"; export PATH;
+PERL5LIB="/home/leomotors/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
+PERL_LOCAL_LIB_ROOT="/home/leomotors/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
+PERL_MB_OPT="--install_base \"/home/leomotors/perl5\""; export PERL_MB_OPT;
+PERL_MM_OPT="INSTALL_BASE=/home/leomotors/perl5"; export PERL_MM_OPT;
