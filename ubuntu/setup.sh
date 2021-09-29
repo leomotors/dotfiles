@@ -20,6 +20,9 @@ git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerl
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt install -y nodejs
 
+# * Add Repo
+sudo add-apt-repository -y ppa:git-core/ppa
+
 # * PIP install Package
 pip3 install numpy doge
 pip3 install autopep8

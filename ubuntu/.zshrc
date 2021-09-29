@@ -124,3 +124,6 @@ PERL_MB_OPT="--install_base \"/home/leomotors/perl5\""; export PERL_MB_OPT;
 PERL_MM_OPT="INSTALL_BASE=/home/leomotors/perl5"; export PERL_MM_OPT;
 
 alias ghl="github-linguist -b"
+
+alias nomaster="git branch -m master main"
+alias gcminit="git commit -m \"Initial Commit\""
