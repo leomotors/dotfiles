@@ -18,23 +18,21 @@ This is my main System for Programming
 
 ### wslfetch
 
-![wslfetch](./screenshots/wslfetch_210903.png)
+![wslfetch](./screenshots/wslfetch_211011.png)
 
 ### neofetch
 
-![neofetch](./screenshots/neofetch_210903.png)
+![neofetch](./screenshots/neofetch_211011.png)
 
 ## My Secondary System: Windows
 
 _basically host of my linux_
 
-**OS**: Windows 11 21H2
+**OS**: ~~Buggy~~ Windows 11 21H2
 
 I used this for some programming tasks (like compiling RTX 2090 TiFy for Windows but program itself is developed in Linux) or pygame which face issues with Linux (not sure because it is Linux or it is VM that cause the issues) or other tasks that it is hard to do in Linux (VM)
 
 No dotfiles exists in Windows (of course, everybody know this)
-
-It also features _very old_ command prompt shell
 
 ## My Raspberry Pi
 
@@ -42,7 +40,7 @@ It also features _very old_ command prompt shell
 
 **OS**: Raspbian 10
 
-I use my raspberry pi to run 4 Discord Bots simultaneously
+I use my raspberry pi to run 5 Discord Bots simultaneously
 
 _pls ignore background_
 

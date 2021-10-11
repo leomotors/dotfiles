@@ -4,7 +4,7 @@
 sudo apt update -y && sudo apt upgrade -y
 
 # * Install used Package
-sudo apt install -y build-essential neofetch libgtk-3-dev python-is-python3 python3-pip libtools tree neofetch jupyter valgrind fortune-mod cowsay lolcat sl cmatrix
+sudo apt install -y build-essential neofetch libgtk-3-dev python-is-python3 python3-pip tree neofetch jupyter valgrind fortune-mod cowsay lolcat sl cmatrix
 
 sudo apt install -y zsh
 
