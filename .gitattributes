@@ -4,5 +4,6 @@
 * linguist-detectable=false
 
 # Only Include File I write
-setup.sh linguist-detectable=true
 linkdot.sh linguist-detectable=true
+setup.sh linguist-detectable=true
+ubuntu/scripts/* linguist-detectable=true
