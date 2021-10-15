@@ -6,3 +6,5 @@
 [credential "https://github.com"]
 	helper = 
 	helper = !/home/linuxbrew/.linuxbrew/Cellar/gh/2.0.0/bin/gh auth git-credential
+[pull]
+	rebase = false
