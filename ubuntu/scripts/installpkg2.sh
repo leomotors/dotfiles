@@ -4,5 +4,6 @@ pip3 install autopep8
 
 # * Node Package Manager
 sudo npm i -g npm
-sudo npm i -g typescript
-sudo npm i -g eslint
+sudo npm i -g yarn
+sudo npm i -g npm-check-updates
+sudo npm i -g vercel
