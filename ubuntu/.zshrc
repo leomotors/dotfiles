@@ -130,3 +130,4 @@ alias gcminit="git commit -m \"Initial Commit\""
 
 autosau check
 
+alias lemcc="source ~/src/emsdk/emsdk_env.sh"

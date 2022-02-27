@@ -6,33 +6,46 @@ idk why but I'm gonna do it too
 
 dotfiles of my system, _Clone or Fork not recommended_
 
-## My Main System : Ubuntu
+## My Main System for Coding : Ubuntu
 
-**Host OS**: Windows 11 21H2
+**OS**: Ubuntu 20.04 LTS
 
-**Linux OS**: Ubuntu 20.04.3 LTS
+**Host**: Windows 11 21H2
 
-**Terminal**: Windows Terminal
-
-This is my main System for Programming
+**Terminal**: Windows Terminal (Best Terminal in Windows)
 
 ### wslfetch
 
-![wslfetch](./screenshots/wslfetch_211011.png)
+![wslfetch](./screenshots/wslfetch_220227.png)
 
 ### neofetch
 
-![neofetch](./screenshots/neofetch_211011.png)
+![neofetch](./screenshots/neofetch_220227.png)
 
 ## My Secondary System: Windows
 
-_basically host of my linux_
+_host of my linux_
 
-**OS**: ~~Buggy~~ Windows 11 21H2
+**OS**: Windows 11 21H2
 
-I used this for some programming tasks (like compiling RTX 2090 TiFy for Windows but program itself is developed in Linux) or pygame which face issues with Linux (not sure because it is Linux or it is VM that cause the issues) or other tasks that it is hard to do in Linux (VM)
+I used this for some programming tasks that is better to do one Windows.
+
+Ex. Mobile App, ~~THICC~~ Visual Studio and desktop app for Windows
 
 No dotfiles exists in Windows (of course, everybody know this)
+
+## Laptop Spec
+
+| Key        | Value                                                                          |
+| ---------- | ------------------------------------------------------------------------------ |
+| Model Name | ASUS ROG Flow X13                                                              |
+| Model No.  | GV301QE-K5066TS                                                                |
+| CPU        | AMD Ryzen 9 5900HS with Radeon Graphics                                        |
+| GPU        | NVIDIA RTX 3050 Ti (35W) 4GB                                                   |
+| Memory     | LPDDR4 4266MHz 32 GB                                                           |
+| Storage    | SSD 1 TB                                                                       |
+| Connection | WiFi 6 Bluetooth 5.2                                                           |
+| Full Spec  | [Link](https://rog.asus.com/th/laptops/rog-flow/2021-rog-flow-x13-series/spec) |
 
 ## My Raspberry Pi
 
@@ -40,8 +53,22 @@ No dotfiles exists in Windows (of course, everybody know this)
 
 **OS**: Raspbian 10
 
-I use my raspberry pi to run 5 Discord Bots simultaneously
+Bought with the price of 1000 Baht
 
-_pls ignore background_
+I use my raspberry pi to run _many_ Discord Bots simultaneously
 
-![neofetch_pi](./screenshots/neofetch_pi_210917.png)
+![neofetch_pi](./screenshots/neofetch_pi_220227.png)
+
+### Currently Active Bots
+
+- [Salim Bot](https://github.com/Leomotors/Salim-Bot)
+
+- [Bots Gulag](https://github.com/CarelessDev/bots-gulag)
+
+- [Harunon (py)](https://github.com/CarelessDev/Harunon)
+
+- [Cocoa Grader](https://github.com/Leomotors/cocoa-grader)
+
+## PS
+
+According to experiences of setting up linux. The scripts in `*/scripts` never work. lmao
