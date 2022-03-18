@@ -82,9 +82,10 @@
             },
             {
                 "acrylicOpacity": 0.68999999999999995,
+                "antialiasingMode": "grayscale",
                 "font": 
                 {
-                    "face": "CaskaydiaCove Nerd Font Mono",
+                    "face": "JetBrainsMonoMedium NF",
                     "size": 13
                 },
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
@@ -118,6 +119,22 @@
                 "suppressApplicationTitle": true,
                 "tabTitle": "Raspberry Pi",
                 "useAcrylic": false
+            },
+            {
+                "acrylicOpacity": 0.68999999999999995,
+                "font": 
+                {
+                    "face": "CaskaydiaCove NF",
+                    "size": 13
+                },
+                "guid": "{a5a97cb8-8961-5535-816d-772efe0c6a3f}",
+                "hidden": false,
+                "name": "Arch",
+                "source": "Windows.Terminal.Wsl",
+                "startingDirectory": "\\\\wsl.localhost\\Arch\\root",
+                "suppressApplicationTitle": true,
+                "tabTitle": "Arch Linux",
+                "useAcrylic": true
             }
         ]
     },
@@ -330,5 +347,7 @@
             "white": "#C0C0C0",
             "yellow": "#808000"
         }
-    ]
+    ],
+    "theme": "system",
+    "useAcrylicInTabRow": true
 }

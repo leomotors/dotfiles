@@ -28,11 +28,13 @@ _host of my linux_
 
 **OS**: Windows 11 21H2
 
-I used this for some programming tasks that is better to do one Windows.
+I used this for some programming tasks that is better to do on Windows.
 
-Ex. Mobile App, ~~THICC~~ Visual Studio and desktop app for Windows
+Ex. Mobile App, ~~THICC~~ Visual Studio and desktop app for Windows (of course)
 
-No dotfiles exists in Windows (of course, everybody know this)
+### winfetch
+
+![winfetch](./screenshots/winfetch_220318.png)
 
 ## Laptop Spec
 

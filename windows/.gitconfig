@@ -1,0 +1,6 @@
+[core]
+	editor = \"C:\\Users\\npong\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+	autocrlf = false
+[user]
+	name = Leomotors (Windows)
+	email = 59821765+Leomotors@users.noreply.github.com
