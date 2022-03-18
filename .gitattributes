@@ -7,3 +7,4 @@
 linkdot.sh linguist-detectable=true
 setup.sh linguist-detectable=true
 ubuntu/scripts/* linguist-detectable=true
+windows/link.ps1 linguist-detectable=true
