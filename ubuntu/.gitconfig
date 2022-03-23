@@ -11,3 +11,5 @@
 	rebase = false
 [commit]
 	gpgsign = true
+[core]
+	editor = nano
