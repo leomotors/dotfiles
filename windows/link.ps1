@@ -1,4 +1,4 @@
-# Create Symbolink Links
+# Create Symbolic Links
 
 $DOTWIN = "$HOME\dotfiles\windows"
 
@@ -17,4 +17,4 @@ function CreateLink {
 
 CreateLink $HOME\.gitconfig $DOTWIN\.gitconfig
 
-CreateLink $HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json $DOTWIN\settings.json
+CreateLink $HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json $DOTWIN\winterm.json

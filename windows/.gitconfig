@@ -4,3 +4,8 @@
 [user]
 	name = Leomotors (Windows)
 	email = 59821765+Leomotors@users.noreply.github.com
+	signingkey = 5CBFF077F1BAF4C9730EB1D7300606A7E1802468
+[gpg]
+	program = "C:\\Program Files\\Git\\usr\\bin\\gpg.exe"
+[commit]
+	gpgsign = true

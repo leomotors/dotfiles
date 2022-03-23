@@ -82,6 +82,26 @@
             },
             {
                 "acrylicOpacity": 0.68999999999999995,
+                "altGrAliasing": true,
+                "antialiasingMode": "grayscale",
+                "closeOnExit": "graceful",
+                "colorScheme": "Campbell",
+                "commandline": "%PROGRAMFILES%/Git/usr/bin/bash.exe -i -l",
+                "font": 
+                {
+                    "face": "JetBrainsMonoMedium NF",
+                    "size": 13
+                },
+                "guid": "{7f646c16-12db-43ad-9651-292c1b1277aa}",
+                "icon": "%PROGRAMFILES%/Git/mingw64/share/git/git-for-windows.ico",
+                "name": "Git Bash",
+                "startingDirectory": "%USERPROFILE%",
+                "suppressApplicationTitle": true,
+                "tabTitle": "Git Bash",
+                "useAcrylic": true
+            },
+            {
+                "acrylicOpacity": 0.68999999999999995,
                 "antialiasingMode": "grayscale",
                 "font": 
                 {
