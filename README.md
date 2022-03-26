@@ -22,6 +22,10 @@ dotfiles of my system, _Clone or Fork not recommended_
 
 ![neofetch](./screenshots/neofetch_220227.png)
 
+### uwufetch ([Personalized Forked Version by me](https://github.com/Leomotors/uwufetch))
+
+![uwufetch](./screenshots/uwufetch_220326.png)
+
 ## My Secondary System: Windows
 
 _host of my linux_
@@ -67,7 +71,9 @@ I use my raspberry pi to run _many_ Discord Bots simultaneously
 
 - [Bots Gulag](https://github.com/CarelessDev/bots-gulag)
 
-- [Harunon (py)](https://github.com/CarelessDev/Harunon)
+- [Harunon v2 (py)](https://github.com/CarelessDev/Harunon)
+
+- [Harunon v3 (js)](https://github.com/CarelessDev/harunon.js)
 
 - [Cocoa Grader](https://github.com/Leomotors/cocoa-grader)
 
