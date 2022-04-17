@@ -128,6 +128,6 @@ alias ghl="github-linguist -b"
 alias nomaster="git branch -m master main"
 alias gcminit="git commit -m \"Initial Commit\""
 
-autosau check
+autosau
 
 alias lemcc="source ~/src/emsdk/emsdk_env.sh"
