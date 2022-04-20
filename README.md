@@ -71,11 +71,11 @@ I use my raspberry pi to run _many_ Discord Bots simultaneously
 
 - [Bots Gulag](https://github.com/CarelessDev/bots-gulag)
 
-- [Harunon v2 (py)](https://github.com/CarelessDev/Harunon)
+~~- [Harunon v2 (py)](https://github.com/CarelessDev/Harunon)~~
 
 - [Harunon v3 (js)](https://github.com/CarelessDev/harunon.js)
 
-- [Cocoa Grader](https://github.com/Leomotors/cocoa-grader)
+~~- [Cocoa Grader](https://github.com/Leomotors/cocoa-grader)~~ No one use it, so I turned it off :(
 
 ## PS
 
