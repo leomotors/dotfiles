@@ -73,7 +73,7 @@
                     "size": 13
                 },
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
-                "hidden": true,
+                "hidden": false,
                 "name": "Azure Cloud Shell",
                 "opacity": 69,
                 "source": "Windows.Terminal.Azure",
@@ -108,7 +108,8 @@
                 },
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
                 "hidden": false,
-                "name": "Ubuntu",
+                "icon": "C:\\Users\\npong\\OneDrive\\Pictures\\ubuntu-favicon.png",
+                "name": "Ubuntu 20.04 LTS",
                 "opacity": 69,
                 "source": "Windows.Terminal.Wsl",
                 "startingDirectory": "\\\\wsl.localhost\\Ubuntu\\home\\leomotors",
@@ -156,18 +157,6 @@
                 "useAcrylic": true
             },
             {
-                "guid": "{f5f4a12e-5afa-588a-aad1-de6410f831f8}",
-                "hidden": false,
-                "name": "Developer Command Prompt for VS 2022 [Preview]",
-                "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "guid": "{7a1c6af3-df9c-5e87-a217-714c4814c748}",
-                "hidden": false,
-                "name": "Developer PowerShell for VS 2022 [Preview]",
-                "source": "Windows.Terminal.VisualStudio"
-            },
-            {
                 "guid": "{5d224843-11cc-5c6a-b5bc-d33cc1936f14}",
                 "hidden": true,
                 "name": "Developer Command Prompt for VS 2022",
@@ -178,6 +167,22 @@
                 "hidden": true,
                 "name": "Developer PowerShell for VS 2022",
                 "source": "Windows.Terminal.VisualStudio"
+            },
+            {
+                "colorScheme": "Ubuntu-22.04-ColorScheme",
+                "commandline": "ubuntu2204.exe",
+                "cursorShape": "filledBox",
+                "font": 
+                {
+                    "face": "Cascadia Mono",
+                    "size": 13
+                },
+                "guid": "{f06c812b-4213-437e-9b67-69802fb03d3c}",
+                "hidden": false,
+                "icon": "C:\\Users\\npong\\OneDrive\\Pictures\\ubuntu-favicon.png",
+                "name": "Ubuntu 22.04 LTS",
+                "suppressApplicationTitle": true,
+                "tabTitle": "Ubuntu 22.04 LTS"
             }
         ]
     },
@@ -366,6 +371,52 @@
             "selectionBackground": "#FFFFFF",
             "white": "#D3D7CF",
             "yellow": "#C4A000"
+        },
+        {
+            "background": "#300A24",
+            "black": "#171421",
+            "blue": "#0037DA",
+            "brightBlack": "#767676",
+            "brightBlue": "#08458F",
+            "brightCyan": "#2C9FB3",
+            "brightGreen": "#26A269",
+            "brightPurple": "#A347BA",
+            "brightRed": "#C01C28",
+            "brightWhite": "#F2F2F2",
+            "brightYellow": "#A2734C",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#3A96DD",
+            "foreground": "#FFFFFF",
+            "green": "#26A269",
+            "name": "Ubuntu-20.04-ColorScheme",
+            "purple": "#881798",
+            "red": "#C21A23",
+            "selectionBackground": "#FFFFFF",
+            "white": "#CCCCCC",
+            "yellow": "#A2734C"
+        },
+        {
+            "background": "#300A24",
+            "black": "#171421",
+            "blue": "#0037DA",
+            "brightBlack": "#767676",
+            "brightBlue": "#08458F",
+            "brightCyan": "#2C9FB3",
+            "brightGreen": "#26A269",
+            "brightPurple": "#A347BA",
+            "brightRed": "#C01C28",
+            "brightWhite": "#F2F2F2",
+            "brightYellow": "#A2734C",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#3A96DD",
+            "foreground": "#FFFFFF",
+            "green": "#26A269",
+            "name": "Ubuntu-22.04-ColorScheme",
+            "purple": "#881798",
+            "red": "#C21A23",
+            "selectionBackground": "#FFFFFF",
+            "white": "#CCCCCC",
+            "yellow": "#A2734C"
         },
         {
             "background": "#000000",
