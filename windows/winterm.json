@@ -118,6 +118,21 @@
                 "useAcrylic": true
             },
             {
+                "colorScheme": "Ubuntu-22.04-ColorScheme",
+                "commandline": "ubuntu2204.exe",
+                "font": 
+                {
+                    "face": "JetBrainsMonoMedium NF",
+                    "size": 13
+                },
+                "guid": "{f06c812b-4213-437e-9b67-69802fb03d3c}",
+                "hidden": false,
+                "icon": "C:\\Users\\npong\\OneDrive\\Pictures\\ubuntu-favicon.png",
+                "name": "Ubuntu 22.04 LTS",
+                "suppressApplicationTitle": true,
+                "tabTitle": "Ubuntu 22.04 LTS"
+            },
+            {
                 "altGrAliasing": true,
                 "antialiasingMode": "grayscale",
                 "closeOnExit": "graceful",
@@ -167,22 +182,6 @@
                 "hidden": true,
                 "name": "Developer PowerShell for VS 2022",
                 "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "colorScheme": "Ubuntu-22.04-ColorScheme",
-                "commandline": "ubuntu2204.exe",
-                "cursorShape": "filledBox",
-                "font": 
-                {
-                    "face": "Cascadia Mono",
-                    "size": 13
-                },
-                "guid": "{f06c812b-4213-437e-9b67-69802fb03d3c}",
-                "hidden": false,
-                "icon": "C:\\Users\\npong\\OneDrive\\Pictures\\ubuntu-favicon.png",
-                "name": "Ubuntu 22.04 LTS",
-                "suppressApplicationTitle": true,
-                "tabTitle": "Ubuntu 22.04 LTS"
             }
         ]
     },
