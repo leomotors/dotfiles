@@ -128,8 +128,6 @@ alias ghl="github-linguist -b"
 alias nomaster="git branch -m master main"
 alias gcminit="git commit -m \"Initial Commit\""
 
-autosau
-
 alias lemcc="source ~/src/emsdk/emsdk_env.sh"
 
 comtag() {
@@ -140,3 +138,10 @@ comtag() {
 pushtag() {
   git push && git push --tags
 }
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+autosau
+
