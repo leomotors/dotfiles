@@ -12,4 +12,3 @@ pip3 install autopep8
 sudo npm i -g npm
 sudo npm i -g yarn
 sudo npm i -g npm-check-updates
-sudo npm i -g vercel

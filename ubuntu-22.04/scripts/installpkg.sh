@@ -4,7 +4,7 @@
 sudo apt update -y && sudo apt upgrade -y
 
 # * Install used Package
-sudo apt install -y build-essential neofetch libgtk-3-dev python-is-python3 python3-pip tree jupyter valgrind fortune-mod cowsay lolcat sl cmatrix exa
+sudo apt install -y build-essential neofetch libgtk-3-dev python-is-python3 python3-pip tree jupyter valgrind fortune-mod cowsay lolcat sl cmatrix libmpg123-dev libao-dev
 
 sudo apt install -y zsh
 
@@ -26,7 +26,7 @@ sudo apt install -y build-essential cmake git pkg-config libgtk-3-dev \
 sudo apt install -y libglu1-mesa-dev freeglut3-dev mesa-common-dev
 
 # * Very Big Package
-sudo apt install -y ubuntu-desktop ffmpeg gimp vlc sgt-puzzles texlive-full
+sudo apt install -y libopencv-dev ubuntu-desktop ffmpeg gimp vlc sgt-puzzles texlive-full
 
 # * Finally
 sudo apt update -y && sudo apt upgrade -y
