@@ -6,5 +6,5 @@
 # Only Include File I write
 linkdot.sh linguist-detectable=true
 setup.sh linguist-detectable=true
-ubuntu/scripts/* linguist-detectable=true
-windows/link.ps1 linguist-detectable=true
+*/scripts/* linguist-detectable=true
+*.ps1 linguist-detectable=true
