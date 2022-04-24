@@ -145,3 +145,5 @@ export NVM_DIR="$HOME/.nvm"
 
 autosau
 
+alias e="exa --long"
+

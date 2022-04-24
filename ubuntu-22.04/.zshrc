@@ -118,6 +118,8 @@ export PATH="$HOME/.local/bin:$PATH"
 
 export BROWSER="$HOME/dotfiles/ubuntu-22.04/msedge"
 
+alias sau="sudo apt update -y && sudo apt upgrade -y"
+
 alias ghl="github-linguist -b"
 
 alias nomaster="git branch -m master main"
