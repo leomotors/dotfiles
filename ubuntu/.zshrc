@@ -151,3 +151,13 @@ nvmlink() {
   sudo rm -f /usr/bin/node
   sudo ln -s $(which node) /usr/bin/node
 }
+
+nvmuse() {
+  nvm use $1
+  nvmlink
+}
+
+nvmins() {
+  nvm install $1
+  nvmlink
+}
