@@ -129,8 +129,10 @@
                 "hidden": false,
                 "icon": "C:\\Users\\npong\\OneDrive\\Pictures\\ubuntu-favicon.png",
                 "name": "Ubuntu 22.04 LTS",
+                "opacity": 69,
                 "suppressApplicationTitle": true,
-                "tabTitle": "Ubuntu 22.04 LTS"
+                "tabTitle": "Ubuntu 22.04 LTS",
+                "useAcrylic": true
             },
             {
                 "altGrAliasing": true,
@@ -182,6 +184,31 @@
                 "hidden": true,
                 "name": "Developer PowerShell for VS 2022",
                 "source": "Windows.Terminal.VisualStudio"
+            },
+            {
+                "antialiasingMode": "grayscale",
+                "colorScheme": "Campbell",
+                "commandline": "C:\\WINDOWS\\system32\\wsl.exe -d Ubuntu-20.04",
+                "font": 
+                {
+                    "face": "JetBrainsMonoMedium NF",
+                    "size": 13
+                },
+                "guid": "{d229f6dd-8420-42b5-837e-f37181a00562}",
+                "hidden": false,
+                "icon": "C:\\Users\\npong\\OneDrive\\Pictures\\ubuntu-favicon.png",
+                "name": "Ubuntu 20.04 TEST",
+                "opacity": 69,
+                "startingDirectory": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\test",
+                "suppressApplicationTitle": true,
+                "tabTitle": "Ubuntu 20.04 TEST",
+                "useAcrylic": true
+            },
+            {
+                "guid": "{16208362-94fc-5b1f-a491-5b2624d5ab56}",
+                "hidden": true,
+                "name": "Visual Studio Debug Console",
+                "source": "VSDebugConsole"
             }
         ]
     },
