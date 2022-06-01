@@ -9,7 +9,5 @@
 	helper = !/home/linuxbrew/.linuxbrew/Cellar/gh/2.5.1/bin/gh auth git-credential
 [pull]
 	rebase = false
-[commit]
-	gpgsign = true
 [core]
 	editor = nano
