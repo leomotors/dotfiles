@@ -131,7 +131,7 @@ alias gcminit="git commit -m \"Initial Commit\""
 alias lemcc="source ~/src/emsdk/emsdk_env.sh"
 
 comtag() {
-  git commit -m $2
+  git commit -S -m $2
   git tag -s $1 -m $2
 }
 
