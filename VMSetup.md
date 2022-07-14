@@ -1,4 +1,4 @@
-# VM Setup
+# VM Setup Guide
 
 Leaving this guide here in case I want to setup VM
 
@@ -10,4 +10,8 @@ Leaving this guide here in case I want to setup VM
 6. Install golden-frame
 7. Add $HOME/.local/bin to PATH
 8. Git Clone
-9. Start Discord Bot
+9. Install postgresql and setup database
+10. Allow all (We love security)
+11. Also allow all in Azure if you use Azure
+12. yarn, yarn build, set .env run the bot
+13. Start Discord Bot
