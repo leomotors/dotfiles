@@ -168,3 +168,10 @@ nvmins() {
 
 export PATH=$PATH:/usr/local/go/bin
 
+
+# bun completions
+[ -s "/home/leomotors/.bun/_bun" ] && source "/home/leomotors/.bun/_bun"
+
+# Bun
+export BUN_INSTALL="/home/leomotors/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
