@@ -8,21 +8,27 @@ dotfiles of my system, _Clone or Fork not recommended_
 
 ## My Main System for Coding : Ubuntu
 
-**OS**: Ubuntu 20.04 LTS
+**OS**: Ubuntu 22.04 LTS
 
-**Host**: Windows 11 21H2
+**Host**: Windows 11 22H2 (10.0.22623)
 
 **Terminal**: Windows Terminal (Best Terminal in Windows)
 
 ### wslfetch
 
+*Note: Image outdated, lazy to update*
+
 ![wslfetch](./screenshots/wslfetch_220227.png)
 
 ### neofetch
 
+*Note: Image outdated, lazy to update*
+
 ![neofetch](./screenshots/neofetch_220227.png)
 
 ### uwufetch ([Personalized Forked Version by me](https://github.com/Leomotors/uwufetch))
+
+*Note: Image outdated, lazy to update*
 
 ![uwufetch](./screenshots/uwufetch_220326.png)
 
@@ -30,7 +36,7 @@ dotfiles of my system, _Clone or Fork not recommended_
 
 _host of my linux_
 
-**OS**: Windows 11 21H2
+**OS**: Windows 11 22H2
 
 I used this for some programming tasks that is better to do on Windows.
 

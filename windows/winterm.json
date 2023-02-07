@@ -108,28 +108,12 @@
                 },
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
                 "hidden": false,
+                "historySize": 20001,
                 "icon": "C:\\Users\\npong\\OneDrive\\Pictures\\ubuntu-favicon.png",
-                "name": "Ubuntu 20.04 LTS",
+                "name": "Ubuntu 22.04 LTS (Primary)",
                 "opacity": 69,
                 "source": "Windows.Terminal.Wsl",
                 "startingDirectory": "\\\\wsl.localhost\\Ubuntu\\home\\leomotors",
-                "suppressApplicationTitle": true,
-                "tabTitle": "Ubuntu 20.04 LTS",
-                "useAcrylic": true
-            },
-            {
-                "colorScheme": "Ubuntu-22.04-ColorScheme",
-                "commandline": "ubuntu2204.exe",
-                "font": 
-                {
-                    "face": "JetBrainsMonoMedium NF",
-                    "size": 13
-                },
-                "guid": "{f06c812b-4213-437e-9b67-69802fb03d3c}",
-                "hidden": false,
-                "icon": "C:\\Users\\npong\\OneDrive\\Pictures\\ubuntu-favicon.png",
-                "name": "Ubuntu 22.04 LTS",
-                "opacity": 69,
                 "suppressApplicationTitle": true,
                 "tabTitle": "Ubuntu 22.04 LTS",
                 "useAcrylic": true
@@ -184,25 +168,6 @@
                 "hidden": true,
                 "name": "Developer PowerShell for VS 2022",
                 "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "antialiasingMode": "grayscale",
-                "colorScheme": "Campbell",
-                "commandline": "C:\\WINDOWS\\system32\\wsl.exe -d Ubuntu-20.04",
-                "font": 
-                {
-                    "face": "JetBrainsMonoMedium NF",
-                    "size": 13
-                },
-                "guid": "{d229f6dd-8420-42b5-837e-f37181a00562}",
-                "hidden": false,
-                "icon": "C:\\Users\\npong\\OneDrive\\Pictures\\ubuntu-favicon.png",
-                "name": "Ubuntu 20.04 TEST",
-                "opacity": 69,
-                "startingDirectory": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\test",
-                "suppressApplicationTitle": true,
-                "tabTitle": "Ubuntu 20.04 TEST",
-                "useAcrylic": true
             },
             {
                 "guid": "{16208362-94fc-5b1f-a491-5b2624d5ab56}",
