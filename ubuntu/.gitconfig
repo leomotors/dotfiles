@@ -13,3 +13,5 @@
 	editor = nano
 [push]
 	autoSetupRemote = true
+[commit]
+	gpgsign = true
