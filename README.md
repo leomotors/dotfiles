@@ -77,21 +77,9 @@ Ex. Mobile App, ~~THICC~~ Visual Studio and desktop app for Windows (of course)
 
 Bought with the price of 1000 Baht
 
-I use my raspberry pi to run _many_ Discord Bots simultaneously
+I used my raspberry pi to run _many_ Discord Bots simultaneously but now it is no longer powered, my personal vm replaced its job.
 
 ![neofetch_pi](./screenshots/neofetch_pi_220227.png)
-
-### Currently Active Bots
-
-- [Salim Bot](https://github.com/Leomotors/Salim-Bot)
-
-- [Bots Gulag](https://github.com/CarelessDev/bots-gulag)
-
-~~- [Harunon v2 (py)](https://github.com/CarelessDev/Harunon)~~
-
-- [Harunon v3 (js)](https://github.com/CarelessDev/harunon.js)
-
-~~- [Cocoa Grader](https://github.com/Leomotors/cocoa-grader)~~ No one use it, so I turned it off :(
 
 ## PS
 
