@@ -6,7 +6,7 @@ idk why but I'm gonna do it too
 
 dotfiles of my system, _Clone or Fork not recommended_
 
-## My Main System for Coding : Ubuntu
+## (Was) My Main System for Coding : Ubuntu
 
 **OS**: Ubuntu 22.04 LTS
 
@@ -16,23 +16,33 @@ dotfiles of my system, _Clone or Fork not recommended_
 
 ### wslfetch
 
-*Note: Image outdated, lazy to update*
+_Note: Image outdated, lazy to update_
 
 ![wslfetch](./screenshots/wslfetch_220227.png)
 
 ### neofetch
 
-*Note: Image outdated, lazy to update*
+_Note: Image outdated, lazy to update_
 
 ![neofetch](./screenshots/neofetch_220227.png)
 
 ### uwufetch ([Personalized Forked Version by me](https://github.com/Leomotors/uwufetch))
 
-*Note: Image outdated, lazy to update*
+_Note: Image outdated, lazy to update_
 
 ![uwufetch](./screenshots/uwufetch_220326.png)
 
-## My Secondary System: Windows
+## My (temporary) primary system for Coding : Macbook Pro
+
+_company laptop, so if I resign (or get fired) F_
+
+**Spec**: Macbook Pro 14 2021, M1 Pro 8 Cores, 16/512
+
+### neofetch
+
+![neofetch](./screenshots/neofetch_macos_230214.png)
+
+## Another System: Windows
 
 _host of my linux_
 
