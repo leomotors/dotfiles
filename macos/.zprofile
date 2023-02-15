@@ -2,7 +2,7 @@
 [[ -f "$HOME/.fig/shell/zprofile.pre.zsh" ]] && builtin source "$HOME/.fig/shell/zprofile.pre.zsh"
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
+export GPG_TTY=$(tty)
+
 # Fig post block. Keep at the bottom of this file.
 [[ -f "$HOME/.fig/shell/zprofile.post.zsh" ]] && builtin source "$HOME/.fig/shell/zprofile.post.zsh"
-
-export GPG_TTY=$(tty)
