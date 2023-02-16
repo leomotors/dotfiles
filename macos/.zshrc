@@ -126,9 +126,6 @@ alias vsc="code ."
 
 export PATH="$PATH:/Users/leomotors/Library/Python/3.9/bin"
 
-# Fig post block. Keep at the bottom of this file.
-[[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
-
 export PATH="/opt/homebrew/opt/openjdk@17/bin:$PATH"
 
 # bun completions
@@ -140,3 +137,5 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 
 alias buni="bun i"
 
+# Fig post block. Keep at the bottom of this file.
+[[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
