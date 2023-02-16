@@ -5,3 +5,5 @@
 
 [core]
 	editor = nano
+[push]
+	autoSetupRemote = true
