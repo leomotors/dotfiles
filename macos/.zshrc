@@ -137,5 +137,13 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 
 alias buni="bun i"
 
+if [ -d "/opt/homebrew/opt/ruby/bin" ]; then
+  export PATH=/opt/homebrew/opt/ruby/bin:$PATH
+  export PATH=`gem environment gemdir`/bin:$PATH
+fi
+
+alias ghl="github-linguist -b"
+
+# IMPORTANT: DO NOT PUT ANYTHING BELOW THIS LINE
 # Fig post block. Keep at the bottom of this file.
 [[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
