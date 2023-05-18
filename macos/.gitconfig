@@ -1,9 +1,13 @@
 [user]
 	name = Nutthapat Pongtanyavichai
 	email = 59821765+Leomotors@users.noreply.github.com
-	signingkey = 281F76644995C280C64215876F6536C0C33AEFF5
+	signingkey = CA34AB59AFA0502F5F296689520A1D98D1A08FBA
 
 [core]
 	editor = nano
 [push]
 	autoSetupRemote = true
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
