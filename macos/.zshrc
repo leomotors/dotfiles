@@ -124,10 +124,6 @@ export NVM_DIR="$HOME/.nvm"
 
 alias vsc="code ."
 
-export PATH="$PATH:/Users/leomotors/Library/Python/3.9/bin"
-
-export PATH="/opt/homebrew/opt/openjdk@17/bin:$PATH"
-
 # bun completions
 [ -s "/Users/leomotors/.bun/_bun" ] && source "/Users/leomotors/.bun/_bun"
 
