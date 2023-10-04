@@ -8,6 +8,8 @@ dotfiles of my system, _Clone or Fork not recommended_
 
 ## (Was) My Main System for Coding : Ubuntu
 
+_no longer used since I have macbook_
+
 **OS**: Ubuntu 22.04 LTS
 
 **Host**: Windows 11 22H2 (10.0.22623)
@@ -32,15 +34,25 @@ _Note: Image outdated, lazy to update_
 
 ![uwufetch](./screenshots/uwufetch_220326.png)
 
-## My (temporary) primary system for Coding : Macbook Pro
+## My previous primary system for Coding : Macbook Pro 14 2021
 
 _company laptop, so if I resign (or get fired) F_
 
-**Spec**: Macbook Pro 14 2021, M1 Pro 8 Cores, 16/512
+edit: I got fired
+
+**Spec**: M1 Pro 8 Cores (6P/2E), RAM 16GB SSD 512GB
 
 ### neofetch
 
 ![neofetch](./screenshots/neofetch_macos_230214.png)
+
+## My current primary system for Coding : Macbook Pro 14 2023
+
+**Spec**: M2 Max 12 Cores (8P/4E) GPU 30 Cores, RAM 32GB SSD 1TB
+
+### neofetch
+
+![neofetch](./screenshots/neofetch_mbp14_231004.png)
 
 ## Another System: Windows
 
