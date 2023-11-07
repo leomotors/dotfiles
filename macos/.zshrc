@@ -141,6 +141,11 @@ fi
 alias ghl="github-linguist -b"
 
 export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+export PATH="$PATH:/Users/leomotors/development/flutter/bin:/Users/leomotors/Library/Android/sdk/platform-tools"
+
+opengh() {
+  open $(git config remote.origin.url)
+}
 
 # IMPORTANT: DO NOT PUT ANYTHING BELOW THIS LINE
 
