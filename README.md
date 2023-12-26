@@ -15,7 +15,7 @@ Geekbench score of all my systems are at my Geekbench account: https://browser.g
 **Geekbench Device Name**: MacBook Pro (14-inch, 2023)  
 **Geekbench 6 Score**: 2650/14500
 
-*bought one month before M3 Max got released*
+_bought one month before M3 Max got released_
 
 ### neofetch
 
@@ -23,7 +23,9 @@ Geekbench score of all my systems are at my Geekbench account: https://browser.g
 
 ## My Raspberry Pi 5 as an on-premise server
 
-**Spec**: RAM 8 GB, Sandisk Ultra 256GB (SD Card Score: https://pibenchmarks.com/benchmark/76386)  
+**Spec**: RAM 8 GB  
+**Disk**: WD Blue SA510 SATA SSD 250GB (Score: https://pibenchmarks.com/benchmark/76534)  
+Previously: Sandisk Ultra 256GB (SD Card Score: https://pibenchmarks.com/benchmark/76386)  
 **OS**: Ubuntu Server 23.10  
 **Geekbench Device Name**: Raspberry Pi 5 Model B Rev 1.0  
 **Geekbench 6 Score**: 750/1550
@@ -118,7 +120,6 @@ edit: I got fired
 
 ![neofetch](./screenshots/neofetch_macos_230214.png)
 
-
 ## My Old Raspberry Pi
 
 I used my raspberry pi to run _many_ Discord Bots simultaneously.  
@@ -127,7 +128,7 @@ and then I back to use Raspbery Pi again.
 
 **Model**: Raspberry Pi 3 Model A+  
 **OS**: Raspbian 10  
-**Geekbench Score**: *it cannot even complete the test*
+**Geekbench Score**: _it cannot even complete the test_
 
 Bought with the price of 1000 Baht
 
