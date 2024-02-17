@@ -140,12 +140,14 @@ fi
 
 alias ghl="github-linguist -b"
 
-export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+export PATH="/opt/homebrew/opt/openjdk/bin:$PATH:/Users/leomotors/.cargo/bin"
 export PATH="$PATH:/Users/leomotors/development/flutter/bin:/Users/leomotors/Library/Android/sdk/platform-tools"
 
 opengh() {
   open $(git config remote.origin.url)
 }
+
+eval $(thefuck --alias)
 
 # IMPORTANT: DO NOT PUT ANYTHING BELOW THIS LINE
 
