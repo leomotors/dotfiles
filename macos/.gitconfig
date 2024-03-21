@@ -5,6 +5,7 @@
 
 [core]
 	editor = nano
+	ignorecase = false
 [push]
 	autoSetupRemote = true
 [init]
