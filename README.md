@@ -24,8 +24,12 @@ _bought one month before M3 Max got released_
 ## My Raspberry Pi 5 as an on-premise server
 
 **Spec**: RAM 8 GB  
-**Disk**: WD Blue SA510 SATA SSD 250GB (Score: https://pibenchmarks.com/benchmark/76534)  
-Previously: Sandisk Ultra 256GB (SD Card Score: https://pibenchmarks.com/benchmark/76386)  
+**Disk**: WD Black SN770 M.2 PCIe 4.0 250GB (Score: 40515, Image below)  
+Previously (Last 3 Months): WD Blue SA510 SATA SSD 250GB (Score: https://pibenchmarks.com/benchmark/76534)  
+Previously (Last 1 Week): Sandisk Ultra 256GB (Score: https://pibenchmarks.com/benchmark/76386)
+
+![](./screenshots/sn770_score.png)
+
 **OS**: Ubuntu Server 23.10  
 **Geekbench Device Name**: Raspberry Pi 5 Model B Rev 1.0  
 **Geekbench 6 Score**: 750/1550
