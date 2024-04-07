@@ -1,7 +1,7 @@
 [user]
 	name = Nutthapat Pongtanyavichai
-	email = 59821765+Leomotors@users.noreply.github.com
-	signingkey = 042011EB38412A1BF9256C66BFE78DA8B2359C7A
+	email = 59821765+leomotors@users.noreply.github.com
+	signingkey = 1E5A68095071A6F345DEA86EFA0B29CF1F7752E0
 
 [core]
 	editor = nano
