@@ -1,7 +1,7 @@
 [user]
 	name = Nutthapat Pongtanyavichai
-	email = 59821765+leomotors@users.noreply.github.com
-	signingkey = 1E5A68095071A6F345DEA86EFA0B29CF1F7752E0
+	email = contact@leomotors.me
+	signingkey = /Users/leomotors/.ssh/id_ed25519.pub
 
 [core]
 	editor = nano
@@ -17,3 +17,5 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 	required = true
+[gpg]
+	format = ssh
