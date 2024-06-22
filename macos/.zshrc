@@ -149,6 +149,12 @@ opengh() {
 
 eval $(thefuck --alias)
 
+update() {
+  omz update
+  brew update
+  brew upgrade
+}
+
 # IMPORTANT: DO NOT PUT ANYTHING BELOW THIS LINE
 
 export PATH="$PATH:~/.local/bin"
