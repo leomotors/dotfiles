@@ -104,6 +104,10 @@ alias dcu="sudo docker compose up -d"
 alias dcd="sudo docker compose down"
 alias dcp="sudo docker compose pull"
 
+commit() {
+  git commit -S -m $1 --author "Nutthapat Pongtanyavichai <contact@leomotors.me>"
+}
+
 export PATH="$PATH:/home/leomotors/.local/bin"
 
 export NVM_DIR="$HOME/.nvm"
