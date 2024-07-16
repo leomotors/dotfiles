@@ -155,6 +155,10 @@ update() {
   brew upgrade
 }
 
+alias dcu="docker compose up -d"
+alias dcd="docker compose down"
+alias dcuf="docker compose up -d --force-recreate"
+
 # IMPORTANT: DO NOT PUT ANYTHING BELOW THIS LINE
 
 export PATH="$PATH:~/.local/bin"
