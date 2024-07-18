@@ -103,10 +103,13 @@ source $ZSH/oh-my-zsh.sh
 alias dcu="sudo docker compose up -d"
 alias dcd="sudo docker compose down"
 alias dcp="sudo docker compose pull"
+alias dcuf="sudo docker compose up -d --force-recreate"
 
 commit() {
   git commit -S -m $1 --author "Nutthapat Pongtanyavichai <contact@leomotors.me>"
 }
+
+alias gcs=commit
 
 export PATH="$PATH:/home/leomotors/.local/bin"
 
