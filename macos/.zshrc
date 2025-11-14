@@ -148,8 +148,6 @@ opengh() {
   open $(git config remote.origin.url)
 }
 
-eval $(thefuck --alias)
-
 update() {
   omz update
   brew update
@@ -159,6 +157,8 @@ update() {
 alias dcu="docker compose up -d"
 alias dcd="docker compose down"
 alias dcuf="docker compose up -d --force-recreate"
+
+export ANDROID_HOME="/Users/leomotors/Library/Android/sdk"
 
 # IMPORTANT: DO NOT PUT ANYTHING BELOW THIS LINE
 
